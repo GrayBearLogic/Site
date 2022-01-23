@@ -1,0 +1,11 @@
+.release-date{
+    color: #839496;
+    font-style: italic;
+    position:absolute;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
